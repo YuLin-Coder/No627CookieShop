@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CookieShop:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3847e6c7-9242-49bb-ad13-6faff34ce164" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="2GsI2xSR22Hg9BoVspHrn3ENTcl" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570434401036" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.21271676" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/admin" />
+      <recent name="F:\Web\JaveEE\CookieShop\web\admin" />
+      <recent name="F:\Web\JaveEE\CookieShop\web" />
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="F:\Web\JavaEE\CookieShop\web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/WEB-INF/lib" />
+      <recent name="F:\Web\JavaEE\CookieShop\web\WEB-INF\lib" />
+      <recent name="F:\Web\JaveEE\CookieShop\web\WEB-INF\lib" />
+      <recent name="F:\Web\JaveEE\CookieShop\web" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.45" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="CookieShop:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_CookieShop_3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57322" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="CookieShop:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.17686659" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3847e6c7-9242-49bb-ad13-6faff34ce164" name="Default" comment="" />
+      <created>1540513828912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540513828912</updated>
+      <workItem from="1540513831794" duration="4465000" />
+      <workItem from="1540796450578" duration="69000" />
+      <workItem from="1542610484669" duration="7765000" />
+      <workItem from="1542879528521" duration="1372000" />
+      <workItem from="1542956541222" duration="8193000" />
+      <workItem from="1543029845772" duration="363000" />
+      <workItem from="1543121900551" duration="1204000" />
+      <workItem from="1543207653949" duration="11295000" />
+      <workItem from="1543241809255" duration="4439000" />
+      <workItem from="1543246799422" duration="1764000" />
+      <workItem from="1543296022363" duration="81000" />
+      <workItem from="1543321583159" duration="8057000" />
+      <workItem from="1543332478027" duration="1088000" />
+      <workItem from="1543413410325" duration="1880000" />
+      <workItem from="1543415917589" duration="2043000" />
+      <workItem from="1543420624134" duration="3141000" />
+      <workItem from="1543551819439" duration="13731000" />
+      <workItem from="1543581435643" duration="702000" />
+      <workItem from="1543641400714" duration="17742000" />
+      <workItem from="1543661252784" duration="940000" />
+      <workItem from="1543668916739" duration="890000" />
+      <workItem from="1543795475890" duration="869000" />
+      <workItem from="1570421838940" duration="2650000" />
+      <workItem from="1667170665767" duration="260000" />
+      <workItem from="1667326032929" duration="453000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="172" key="#Tomcat_Server" timestamp="1667170858583">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="446" y="172" key="#Tomcat_Server/0.0.1707.1027@0.0.1707.1027" timestamp="1667170858583" />
+    <state x="309" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667170861084">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="309" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1667170861084" />
+    <state x="634" y="253" key="FileChooserDialogImpl" timestamp="1667170857456">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="634" y="253" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1667170857456" />
+    <state width="1344" height="383" key="GridCell.Tab.0.bottom" timestamp="1667326486206">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1344" height="383" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1667326486206" />
+    <state width="1344" height="383" key="GridCell.Tab.0.center" timestamp="1667326486206">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1344" height="383" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1667326486206" />
+    <state width="1344" height="383" key="GridCell.Tab.0.left" timestamp="1667326486206">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1344" height="383" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1667326486206" />
+    <state width="1344" height="383" key="GridCell.Tab.0.right" timestamp="1667326486206">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1344" height="383" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1667326486206" />
+    <state width="1344" height="383" key="GridCell.Tab.1.bottom" timestamp="1667326486206">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1344" height="383" key="GridCell.Tab.1.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1667326486206" />
+    <state width="1344" height="383" key="GridCell.Tab.1.center" timestamp="1667326486206">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1344" height="383" key="GridCell.Tab.1.center/0.0.1707.1027@0.0.1707.1027" timestamp="1667326486206" />
+    <state width="1344" height="383" key="GridCell.Tab.1.left" timestamp="1667326486206">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1344" height="383" key="GridCell.Tab.1.left/0.0.1707.1027@0.0.1707.1027" timestamp="1667326486206" />
+    <state width="1344" height="383" key="GridCell.Tab.1.right" timestamp="1667326486206">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1344" height="383" key="GridCell.Tab.1.right/0.0.1707.1027@0.0.1707.1027" timestamp="1667326486206" />
+    <state width="1344" height="383" key="GridCell.Tab.2.bottom" timestamp="1667326486207">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1344" height="383" key="GridCell.Tab.2.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1667326486207" />
+    <state width="1344" height="383" key="GridCell.Tab.2.center" timestamp="1667326486207">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1344" height="383" key="GridCell.Tab.2.center/0.0.1707.1027@0.0.1707.1027" timestamp="1667326486207" />
+    <state width="1344" height="383" key="GridCell.Tab.2.left" timestamp="1667326486206">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1344" height="383" key="GridCell.Tab.2.left/0.0.1707.1027@0.0.1707.1027" timestamp="1667326486206" />
+    <state width="1344" height="383" key="GridCell.Tab.2.right" timestamp="1667326486207">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1344" height="383" key="GridCell.Tab.2.right/0.0.1707.1027@0.0.1707.1027" timestamp="1667326486207" />
+    <state x="534" y="246" width="638" height="534" key="find.popup" timestamp="1667326046684">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="534" y="246" width="638" height="534" key="find.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1667326046684" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>CookieShop:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21271676" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (CookieShop)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CookieShop</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21271676" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>c3p0-0.9.5.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21271676" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
